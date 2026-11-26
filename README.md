@@ -2,7 +2,7 @@
 
 **BO Music** is a sleek, minimalist, high-contrast **offline local music and video player** for Android, crafted with Flutter for a smooth, distraction-free media experience.
 
-[![Download Latest APK](https://img.shields.io/badge/Download_APK-v1.3.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/boulouizsimohamed-tech/BO-Music-Releases/releases/latest)
+[![Download Latest APK](https://img.shields.io/badge/Download_APK-v1.4.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/boulouizsimohamed-tech/BO-Music-Releases/releases/latest)
 ![Platform](https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge&logo=android)
 ![Built With](https://img.shields.io/badge/Built_With-Flutter-02569B?style=for-the-badge&logo=flutter)
 
